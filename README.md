@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rohan</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-- 🔭 I’m currently working on [Blogs using hooks using Firebase](https://blog-using-hooks-b56b9.firebaseapp.com/)
+- 🔭 I’m currently working on [Blogs using Firebase](https://blog-using-hooks-b56b9.firebaseapp.com/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
